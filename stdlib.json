@@ -1,0 +1,7 @@
+{
+  "name": "prestonb34/portfolio",
+  "timeout": 10000,
+  "connector": false,
+  "events": {},
+  "memory": 512
+}
