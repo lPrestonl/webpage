@@ -3,6 +3,9 @@ This repository contains the assets and the source code required to build [loom4
 - [Contributing to the website](https://github.com/loom4k/webpage/pull  )
 - Contributing to linked repositories and projects (soon)
 
+## Open in Autocode
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
 ## Using this repository
 You can run this website locally using [Node.js](https://nodejs.org) and [NPM](https://npmjs.com). We strongly reccomend sticking to NPM and not running it using Yarn as it's never been tested and some bugs may occur.
 
